@@ -6,4 +6,3 @@ asdasdaa
 Helga
 Malle
 Peeter
-Maiu
